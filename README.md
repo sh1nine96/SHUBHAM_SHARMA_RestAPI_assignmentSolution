@@ -18,7 +18,7 @@
 <br>
 <p>I have attached the screenshots of operations</p>
 <br>
-<p>We can link to watch the screen record video while performing opeartions given below: </p>
+<p>Please click link below to watch the screen record video while performing opeartions: </p>
 <a href="https://drive.google.com/file/d/1p0XR7JprvbOH-y-9hcdI-29WYsJ6GHAR/view?usp=sharing">Video Link</a>
 <hr>
 ### Any suggestions would be highly appreciated
