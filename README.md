@@ -12,7 +12,7 @@
     <li>We can find Employee by Id</li>
     <li>We can update existing employee in DB</li>
     <li>Deletion by Employee Id is possible</li>
-    <li>Endpoint to fetch an employee by first name, if found more than one record then list them all-</li>
+    <li>Endpoint to fetch an employee by first name, if found more than one record then list them all</li>
     <li>We can sort All Employees by their first name is ASC or DESC order</li>
 </ol>
 <br>
