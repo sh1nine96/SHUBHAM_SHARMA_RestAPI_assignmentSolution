@@ -16,6 +16,8 @@
     <li>We can sort All Employees by their first name is ASC or DESC order</li>
 </ol>
 <br>
+<h3>Quick Note: </h3>
+<p>I have added one user with ADMIN role using CommandLineRunner. We can create other Roles and Users dynamically</p><br>
 <p>I have attached the screenshots of operations</p>
 <br>
 <p>Please click link below to watch the screen record video while performing opeartions: </p>
